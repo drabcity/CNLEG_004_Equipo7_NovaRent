@@ -1,12 +1,15 @@
-# NovaRent: arquitectura de logica de negocio (codigo base)
+# NovaRent: Arquitectura de logica de negocio (codigo base)
 
-Empresa: **NovaRent** (renta de autos). Curso: Componentes de Logica de Negocio, Actividad Unidad 3.
-Alcance: 5 casos de uso del flujo de entrega, devolucion y limpieza de vehiculos
-(CU-01 entregar, CU-02 validar documentacion, CU-03 compensar categoria, CU-04 devolucion con cargos, CU-05 limpieza).
+Empresa: **NovaRent** (renta de autos) - UA: Componentes de Logica de Negocio    
+Actividad Unidad 3 | Docente: Miguel Ángel Gómez Marroquín
 
-Equipo: Angelica Reyna Garcia (2144918), Nohemi Delgado Castillo (2145346), Joselyn Maria Quiroga Martinez (2144717).
+-----------------------
+|Equipo 7|Matrícula|
+|---|---|
+|Angelica Reyna Garcia |2144918|
+|Nohemi Delgado Castillo |2145346|
+|Joselyn Maria Quiroga Martinez| 2144717|
 
-> El codigo es **parcial a proposito**: muestra la organizacion y las responsabilidades de la arquitectura, no un sistema completo.
 
 ## Como ejecutarlo
 Requiere Python 3.10 o superior. No hay dependencias.
