@@ -1,2 +1,10 @@
 # CNLEG_004_Equipo7_NovaRent
-Contenido: Entregables de la actividad 3 para la UA "Componentes de Lógica de Negocio", grupo 004
+Componentes de Lógica de Negocio - FIME UANL |
+Docente: Miguel Ángel Gómez Marroquín
+| Equipo 7
+
+|Integrante | Matrícula |
+|---|---|
+|Angélica Reyna García | 2144918|
+| Joselyn María Quiroga Martínez | 2144717 |
+| Nohemi Delgado Castillo | 2145346 |
