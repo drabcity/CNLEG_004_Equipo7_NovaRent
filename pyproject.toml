@@ -1,0 +1,9 @@
+[project]
+name = "novarent-arquitectura"
+version = "0.1.0"
+description = "Codigo base de la arquitectura de NovaRent (Actividad Unidad 3)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "tests"]
+testpaths = ["tests"]
